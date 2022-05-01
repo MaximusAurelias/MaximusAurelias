@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaximusAurelias
 - 👀 I’m interested in learning about cool web-based technologies and infrastructure. 
-- 🌱 I’m currently learning Full-Stack Development.
+- 🌱 I’m currently learning Full-Stack Web Engineering.
 - 💞️ I’m looking to collaborate on Web applications.
 - 📫 How to reach me : rayallenbenjamin@hotmail.com
 
